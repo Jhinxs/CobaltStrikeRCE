@@ -55,7 +55,7 @@ namespace Beacon.Profiles
 -----END PRIVATE KEY-----
 ",
             Public = @"-----BEGIN PUBLIC KEY-----
-MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnCZHWnYFqYB/6gJdkc4MPDTtBJ20nkEAd3tsY4tPKs8MV4yIjJb5CtlrbKHjzP1oD/1AQsj6EKlEMFIKtakLx5+VybrMYE+dDdkDteHmVX0AeFyw001FyQVlt1B+OSNPRscKI5sh1L/ZdwnrMy6S6nNbQ5N5hls6k2kgNO5nQ7QIDAQAB
+MIGfMA0GCSqGb3DQEBAQUAA4GNADCCnCZHWnYFqYB/6gJdkc4MPDTtBJ20nkEAd3tsY4tPKs8MV4yIjJb5CtlrbKHjzP1oD/1AQsj6EKlEMFIKtakLx5+VybrMYE+dDdkDteHmVX0AeFyw001FyQVlt1B+OSNPRscKI5sh1L/ZdwnrMy6S6nNbQ5N5hls6k2kgNO5nQ7QIDAQAB
 -----END PUBLIC KEY-----
 "
         };
@@ -85,7 +85,7 @@ MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnCZHWnYFqYB/6gJdkc4MPDTtBJ20nkEAd3tsY4tPK
 
         //public static string _POSTURL = "https://192.168.8.3/submit.php?id=";
 
-        public static string Host = " http://39.101.76.59:5001";
+        public static string Host = " http://192.168.8.3";
 
         public static string GETURI = "/dpixel";
 

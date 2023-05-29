@@ -1,3 +1,3 @@
 基于Github开源项目SharpBeacon项目  
-实现了CSRCE漏洞的触发，目前讲payload写入进程浏览以及文件浏览中，通过GUI查看触发RCE  
+实现了CSRCE漏洞的触发，目前将payload写入进程浏览以及文件浏览中，通过GUI查看触发RCE  
 可以在config.cs中，修改配置来实现与csprofile的配置同步
